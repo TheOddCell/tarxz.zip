@@ -1,3 +1,3 @@
 #!/bin/sh
-cat *.blk > disk.img
-rm *.blk
+cat *.bin > disk.img
+rm *.bin
